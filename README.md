@@ -7,8 +7,15 @@ Contact:
 https://vk.com/bobkinnvk
 
 **Requirements:**
+
 Modules:
-wget,PIL,time,os
+
+```
+wget,
+PIL,
+time,
+os
+```
 
 Python:
 3.9.7+
