@@ -10,4 +10,4 @@ https://vk.com/bobkinnvk
 Modules:
 wget,PIL,time,os
 Python:
-3.7.7+
+3.9.7+
