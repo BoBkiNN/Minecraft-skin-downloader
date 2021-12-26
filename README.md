@@ -5,3 +5,9 @@ Download minecraft head or skin, allows TLauncher accounts
 
 Contact:
 https://vk.com/bobkinnvk
+
+**Requirements:**
+Modules:
+wget,PIL,time,os
+Python:
+3.7.7+
