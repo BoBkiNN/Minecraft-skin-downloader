@@ -18,6 +18,7 @@ def app():
 	wget.download(url, name)
 	print("")
 	
+	
 	try:
 		ch = Image.open(name)
 		print(f"Skin was saved to {os.getcwd()}/{name}")
