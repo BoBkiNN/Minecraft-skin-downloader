@@ -1,6 +1,6 @@
 # Minecraft-skin-downloader
-Download minecraft head or skin, allows TLauncher accounts
-
+Download minecraft head or skin, allows TLauncher accounts<br>
+Thx ZEF1ROK for code! ❤️<br>
 **by BoBkiNN_**
 
 Contact:
