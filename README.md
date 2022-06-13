@@ -4,7 +4,7 @@ Thx ZEF1ROK for code! ❤️<br>
 **by BoBkiNN_**
 
 Contact:
-https://vk.com/bobkinnvk
+Discord: BoBkiNN_#7400
 
 **Requirements:**
 
